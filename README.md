@@ -1,1 +1,1 @@
-# coursera-assignment3-js
+# js-assignment
